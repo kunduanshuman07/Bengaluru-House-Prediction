@@ -1,2 +1,2 @@
 # BLR-House-Prediction
- Bengaluru House Prediction Mode
+ Bengaluru House Prediction Model
